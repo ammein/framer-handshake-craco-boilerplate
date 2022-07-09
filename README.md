@@ -1,6 +1,6 @@
-# Getting Started Configure Webpack React App to work with Framer Handshake
-Follow this gists link below to setup your react app that can work with Framer Handshake
-<script src="https://gist.github.com/ammein/d087952d13912a0f12266d9aa7063f8f.js"></script>
+# Configure Webpack React App to work with Framer Handshake
+Follow this gists link below to setup your react app that can work with Framer Handshake:
+[Craco Config for Framer Handshake ReactJS](https://gist.github.com/ammein/d087952d13912a0f12266d9aa7063f8f)
 
 # Getting Started with Create React App
 
